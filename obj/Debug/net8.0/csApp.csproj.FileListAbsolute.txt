@@ -1,0 +1,15 @@
+C:\Users\Py-Timson\Desktop\csApp\bin\Debug\net8.0\csApp.exe
+C:\Users\Py-Timson\Desktop\csApp\bin\Debug\net8.0\csApp.deps.json
+C:\Users\Py-Timson\Desktop\csApp\bin\Debug\net8.0\csApp.runtimeconfig.json
+C:\Users\Py-Timson\Desktop\csApp\bin\Debug\net8.0\csApp.dll
+C:\Users\Py-Timson\Desktop\csApp\bin\Debug\net8.0\csApp.pdb
+C:\Users\Py-Timson\Desktop\csApp\obj\Debug\net8.0\csApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Py-Timson\Desktop\csApp\obj\Debug\net8.0\csApp.AssemblyInfoInputs.cache
+C:\Users\Py-Timson\Desktop\csApp\obj\Debug\net8.0\csApp.AssemblyInfo.cs
+C:\Users\Py-Timson\Desktop\csApp\obj\Debug\net8.0\csApp.csproj.CoreCompileInputs.cache
+C:\Users\Py-Timson\Desktop\csApp\obj\Debug\net8.0\csApp.sourcelink.json
+C:\Users\Py-Timson\Desktop\csApp\obj\Debug\net8.0\csApp.dll
+C:\Users\Py-Timson\Desktop\csApp\obj\Debug\net8.0\refint\csApp.dll
+C:\Users\Py-Timson\Desktop\csApp\obj\Debug\net8.0\csApp.pdb
+C:\Users\Py-Timson\Desktop\csApp\obj\Debug\net8.0\csApp.genruntimeconfig.cache
+C:\Users\Py-Timson\Desktop\csApp\obj\Debug\net8.0\ref\csApp.dll
